@@ -1,2 +1,2 @@
-# Under Migration
-Visit https://github.com/alattalatta/Monoworld instead for the latest source codes.
+# Moved
+Visit https://github.com/alattalatta/Monoworld for the latest source codes.
